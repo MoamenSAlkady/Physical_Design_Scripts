@@ -1,5 +1,5 @@
 # Overview
-This script calculates the average delay of cells for a specific timing path.
+This script (delay_average.tcl) calculates the average delay of cells for a specific timing path.
 
 # Description
 This script creates a timing report for the selected timing path and calculates the average delay of cells in that specific timing path.

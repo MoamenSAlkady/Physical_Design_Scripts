@@ -1,5 +1,5 @@
 # Overview
-This script resizes a specific or multiple instances of cells to a chosen driving strength.
+This script (resize.tcl) resizes a specific or multiple instances of cells to a chosen driving strength.
 
 # Description
 This script allows you to batch-resize multiple instances of cells to a chosen driving strength and then peforms an incremental legalization to ensure proper layout.

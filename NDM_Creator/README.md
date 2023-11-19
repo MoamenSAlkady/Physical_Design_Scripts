@@ -1,5 +1,5 @@
 # Overview
-This script creates the NDM containing the necessary source files needed for IC Compiler 2 implementation.
+This script (ndm_tsmc_180nm) creates the NDM containing the necessary source files needed for IC Compiler 2 implementation.
 For this script, it creates the NDM file for the TSMC 180nm library.
 
 # Description
