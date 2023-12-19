@@ -1,3 +1,7 @@
+###########################################################################
+# Function: Create a timing report to be used for resizing
+# Created by Mo'men Salah Alkady
+###########################################################################
 ## update timing
 update_timing -full
 

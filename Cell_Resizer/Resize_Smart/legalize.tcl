@@ -1,6 +1,6 @@
 ##############################################################
-# Function: Run Post-CTS Optimization in ICC2
-# Created by
+# Function: Perform incremental legalization process
+# Created by Mo'men Salah Alkady
 ##############################################################
 
 ### legalization
